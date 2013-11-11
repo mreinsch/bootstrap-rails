@@ -1,4 +1,4 @@
-module Bootstrap
+module Bootstrap3
   module Rails
     class Engine < ::Rails::Engine
       initializer 'anjlab-bootstrap-rails-setup', :group => :all do |app|
